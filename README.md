@@ -1,2 +1,2 @@
-# Sri-eshwara-mineral-water
-Water supply 
+create the actual code for your Sri Eshwara Mineral Water – BVS Enterprises business app, designed for Android phones and computers, with Shiva-inspired green and gold branding.
+The first version will include a product catalogue, shopping cart, WhatsApp ordering, direct phone calls, delivery address, order history, and an admin area. It will be a website you can install on your Android phone like an app.
